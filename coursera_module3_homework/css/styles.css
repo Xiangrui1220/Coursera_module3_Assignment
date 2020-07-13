@@ -1,0 +1,57 @@
+.navbar-header{
+    padding:15px;
+}
+.navbar-header > h1 {
+    padding-left:10px;
+    position:relative;
+    padding-bottom: 15px;
+    font-size: 35px;
+    font-family: "Times New Roman", Times, serif;
+    
+    
+}
+#header-nav{
+    background-color: grey;
+    border-radius: 0;
+    border:0;
+}
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+.container{
+    height: 1500px;
+    background-color: grey;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+    width: 100%;
+}
+.button{
+    text-align: center;
+    position: relative;
+}
+
+#nav-list{
+    text-align:center;
+    
+    font-size: 15px;
+    
+    
+}
+#nav-list{
+    width:100%;
+    margin: 0;
+    background-color: antiquewhite;
+    position:relative;
+    border-radius:0;
+    border:0;
+
+}
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -60px;
+    border: 1px solid black;
+}
+#collapsable-nav{
+    border:0;
+   
+}
